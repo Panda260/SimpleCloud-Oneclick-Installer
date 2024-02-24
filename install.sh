@@ -1,3 +1,4 @@
+apt install unzip -y
 
 curl -o SimpleCloud-Latest.zip -Li https://github.com/theSimpleCloud/SimpleCloud/releases/download/v2.7.1/SimpleCloud-v2.7.1.zip?raw=true
 curl -o SimpleCloud.zip -Li https://github.com/NeverStopGaming/SimpleCloud-Pterodactyl-egg/blob/main/download/SimpleCloud.zip?raw=true
