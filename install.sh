@@ -8,6 +8,7 @@ unzip SimpleCloud.zip
 chmod 777 runner.jar
 chmod 777 launcher.jar
 chmod 777 storage/base.jar
+chmod 777 start.sh
 
 rm -r SimpleCloud.zip
 rm -r SimpleCloud-Latest.zip
